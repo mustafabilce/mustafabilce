@@ -1,10 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Mustafa. A passionate frontend developer from Turkey 🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>  
 
 - 🔭 I’m currently working on [VueJS](https://vuejs.org/) or [ReactJS](https://reactjs.org/)  
   
